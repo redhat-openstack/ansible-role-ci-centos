@@ -1,3 +1,7 @@
-# UUID       	Group Name
+# UUID                                  	Group Name
 #
-user:dmsimard	user/David Moreau Simard (dmsimard)
+69ae0424b3c294dcb050d3d3c02767e22b25009c	weirdo-core
+92c09ca5efa9eaf631f94746734ee91999ecb4c6	weirdo-ci
+global:Anonymous-Users                  	Anonymous Users
+global:Change-Owner                     	Change Owner
+global:Registered-Users                 	Registered Users
